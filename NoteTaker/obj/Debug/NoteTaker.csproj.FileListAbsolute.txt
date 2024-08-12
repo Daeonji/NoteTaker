@@ -1,0 +1,10 @@
+C:\Users\Eroguro\source\repos\NoteTaker\NoteTaker\bin\Debug\NoteTaker.exe.config
+C:\Users\Eroguro\source\repos\NoteTaker\NoteTaker\bin\Debug\NoteTaker.exe
+C:\Users\Eroguro\source\repos\NoteTaker\NoteTaker\bin\Debug\NoteTaker.pdb
+C:\Users\Eroguro\source\repos\NoteTaker\NoteTaker\obj\Debug\NoteTaker.csproj.AssemblyReference.cache
+C:\Users\Eroguro\source\repos\NoteTaker\NoteTaker\obj\Debug\NoteTaker.NoteTaker.resources
+C:\Users\Eroguro\source\repos\NoteTaker\NoteTaker\obj\Debug\NoteTaker.Properties.Resources.resources
+C:\Users\Eroguro\source\repos\NoteTaker\NoteTaker\obj\Debug\NoteTaker.csproj.GenerateResource.cache
+C:\Users\Eroguro\source\repos\NoteTaker\NoteTaker\obj\Debug\NoteTaker.csproj.CoreCompileInputs.cache
+C:\Users\Eroguro\source\repos\NoteTaker\NoteTaker\obj\Debug\NoteTaker.exe
+C:\Users\Eroguro\source\repos\NoteTaker\NoteTaker\obj\Debug\NoteTaker.pdb
